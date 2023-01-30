@@ -11,8 +11,8 @@ tags:
   - Marco
   
 strava:
-  - ["Tillmann - Samstag" ,""]
-  - ["Tillmann - Sonntag" ,""]
+  - ["Tillmann - Samstag" ,"https://www.strava.com/activities/7560382640"]
+  - ["Tillmann - Sonntag" ,"https://www.strava.com/activities/7564901746"]
   
 layout: layouts/post.njk
 ---
