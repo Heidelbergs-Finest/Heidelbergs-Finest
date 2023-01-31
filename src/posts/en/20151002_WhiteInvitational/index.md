@@ -53,7 +53,7 @@ Die für den WasgauBike-Marathon mit Totenkopf klassifizierte Abfahrt hinter der
 
 Vor Salzwoog müssen wir dann das erste Mal auf Beton ausweichen. Dieses eine Mal wollen wir das gelten lassen. “Hast Du ‘nen Rennrad-Track geladen, oder was!?”
 
-![Eines der seltenen Strassenstücke](media/d02.02.strasse.jpeg "Eines der seltenen Strassenstücke")
+![Eines der seltenen Strassenstücke](media/d02.02.straße.jpeg "Eines der seltenen Strassenstücke")
 
 Von Salzwoog geht es dann nach Hinterweidenthal. Dort folgen wir auf Singletrails berghoch und bergrunter (nicht ganz ohne Bananenpause) dem gelben Punkt, der uns direkt zu den Vier Buchen bringt. Vorbei am Winterkirchel und der Himmelspforte fahren wir zum Wanderheim Dicke Eiche. Zum Glück - Hunger macht sich breit. Namensgeber der Hütte des Pfälzerwaldvereins ist eine dicke Eiche, die auf der vorherigen Kreuzung liegt. Liegt? Ja, denn irgendein Depp hat dieses Wahrzeichen vor Jahren einmal rundherum angesägt. Das hat der Baum leider nicht überlebt.
 Zurück zum Essen: “Typisch” für die Pfalz war auf der Hütte Oktoberfest-Woche!? Es gibt aber auch Leberknödel, Saumagen, Bratwurst und Weißweinschorle. Jetzt nur nicht zu viel essen und trinken. Auch wenn das Wetter sehr einladend wirkt.
