@@ -22,11 +22,11 @@ Ich mag mich was Reifen und Räder angeht gern belehren lassen, erscheine pünkt
 
 Die Pandemie kekst im Mai 2021 so richtig an, deshalb ist der Ausflug eine gern gesehene Abwechslung und auch wenn sich für die Einleitung dieser Geschichte der Sarkasmus gut anbot, bin ich doch sehr neugierig, wie mir das gesamte Paket taugen wird. 
 
-Wir starten in Heidelberg direkt bei mir zu Hause. Die Bikes sind ordentlich bepackt. Da wir nicht genau wissen wo wir wegen etwaiger Coronabeschränkungen wie einkehren können, sind wir gut bepackt bis hin zum Gargelfinggedächtnisbanenenhalter.
+Wir starten in Heidelberg direkt bei mir zu Hause. Die Bikes sind ordentlich bepackt. Da wir nicht genau wissen wo wir wegen etwaiger Coronabeschränkungen wie einkehren können, sind wir gut ausgestattet bis hin zum Gargelfinggedächtnisbanenenhalter.
 
 ![Banana](media/PXL_20210523_054801140.MP.jpeg "Banana")
 
-Los geht die Tour auf bekannten Wegen. Vom Neckar weg klettern wir zügig zum Weissen Stein und von dort tiefer in den Odenwald. Wir sind zügi unterwegs und bereits nach 4h Fahrtzeit auf der Tromm. Kurz danach gibt's ein zweites Früstück in Rimbach. Wir kaufen Nusszopf in großen Mengen und machen uns weiter. Kurz nach der Pause kommt der erste Regenschauer. Wir hatten mit Niederschlag gerechnet, aber der Regen fällt so stark aus, dass wir uns entschließen das Gröbste unter einem dichten Blätterdach abzuwarten. Das sollte sich als die richtige Entscheidung rausstellen. Der Regen zieht rasch vorüber und wir bleiben weitestgehend trocken und machen uns an die Weiterfahrt.
+Los geht die Tour auf bekannten Wegen. Vom Neckar weg klettern wir zügig zum Weissen Stein und von dort tiefer in den Odenwald. Wir sind mit ordentlich Druch auf den Pedalen unterwegs und bereits nach 4h Fahrtzeit auf der Tromm. Kurz danach gibt's ein zweites Früstück in Rimbach. Wir kaufen Nusszopf in großen Mengen und machen uns weiter. Nach der Pause kommt der erste Regenschauer. Wir hatten mit Niederschlag gerechnet, aber der Regen fällt so stark aus, dass wir uns entschließen das Gröbste unter einem dichten Blätterdach abzuwarten. Das sollte sich als die richtige Entscheidung rausstellen. Der Regen zieht rasch vorüber und wir bleiben weitestgehend trocken und machen uns an die Weiterfahrt.
 
 Hatten wir bis hierhin immer wieder heftige Trails zu bewältigen, so sind wir nach der Pause immer häufiger auf Asphalt unterwegs und unsere Durchschnittsgeschwindigkeit pendelt sich bei sagenhaften 14km/h ein. So langsam kriege ich ein Gespür für die Vorzüge einer Graveltour. Wir rauschen über die Höhenzüge des Odenwalds, genauso wie von den Marktingstrategen bei https://orbit360.cc beworben, die Wolken stehen hoch und die Beine sind gut. 
 
@@ -40,7 +40,7 @@ Zwischenrein gibt es noch ein Eis in Reichelsheim, aber das kulinarische Highlig
 
 Nach dem Kochkäscarboloading rollen wir gemütlich weiter Richtung Marbach und Hetzbach wo vielleicht der schönste asphalitierte Anstieg im Odenwald zu finden ist. Und wir haben natürlich nochmal zusätzlich Glück, weil wir den Weg hoch nach Bullau im schönsten Abendlicht machen dürfen.
 
-An diesem Tag geht sich wirklich vom Timing her alles perfekt aus. Die Eisdiele kommt zu einem perfekten Zeitpunkt, das Kochkässchnitzel sowieso, und zur Krönung des Tages erreichen wir mit dem letzten Licht des Tages den Eutersee, ein Deluxe Nachtlager. Da ich Paranoia schiebe, dass es nachts mächtig kalt werden könnte stellen wir unser Zelt auf und platzieren das noch  innerhalb einer Schutzhütte. Letztlich wird die Nacht zwar sternenklar und wir dürfen über dem See das Mondlicht bewundern, aber richtig kalt wird es dann doch nicht. 
+An diesem Tag geht sich wirklich vom Timing her alles aus. Die Eisdiele kommt zu einem perfekten Zeitpunkt, das Kochkässchnitzel sowieso, und zur Krönung des Tages erreichen wir mit dem letzten Licht des Tages den Eutersee, ein Deluxe Nachtlager. Da ich Paranoia schiebe, dass es nachts mächtig kalt werden könnte stellen wir unser Zelt auf und platzieren das dann auch noch innerhalb einer Schutzhütte. Letztlich wird die Nacht zwar sternenklar und wir dürfen über dem See das Mondlicht bewundern, aber richtig kalt wird es dann doch nicht. 
 
 {% from "components/image-grid.njk" import imageGrid %}
 {{ imageGrid([
@@ -48,7 +48,7 @@ An diesem Tag geht sich wirklich vom Timing her alles perfekt aus. Die Eisdiele 
  ["PXL_20210523_203059888.NIGHT.jpeg", "PXL_20210523_210602227.NIGHT.jpeg"]
 ]) }}
 
-Trotzdem schmeckt am nächsten Tag der warme Poorridge zum Frühstück gut und gibt uns ausreichend Power für den AUfstieg zum höchten Punkt des Odenwalds, dem Katzenbuckel. Mehrfach denken wir diesen Punkt bald zu erreichen, aber immer wieder werden wir getäuscht.
+Trotzdem schmeckt am nächsten Tag der warme Poorridge zum Frühstück gut und gibt uns ausreichend Power für den Aufstieg zum höchten Punkt des Odenwalds, dem Katzenbuckel. Mehrfach denken wir diesen Punkt bald zu erreichen, aber immer wieder werden wir getäuscht.
 
 ![Auf dem Katzenbuckel](media/PXL_20210524_084751889.jpeg "Auf dem Katzenbuckel")
 
