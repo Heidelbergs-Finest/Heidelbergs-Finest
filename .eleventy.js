@@ -37,15 +37,11 @@ function getFilenameWithoutExtensin(filenameIncludingPath) {
 async function generateImages() {
 
 	let options = {
-		widths: [FULL, THUMB],
+		widths: [THUMB, "auto", FULL],
 		formats: ['jpeg'],
 		filenameFormat:function(id, src, width, format, options) {
-			let origFilename = getFilename(src);
-			let parts = origFilename.split('.');
-			parts.pop();
-			origFilename = parts.join('.');
-
             let filenameWithoutExtension = getFilenameWithoutExtensin(src)
+
             if (width == THUMB)
             {
                 return `thumbnail-${filenameWithoutExtension}.${format}`;
@@ -66,7 +62,6 @@ async function generateImages() {
 
 		let md = await Image(f, options);
 	};
-
 };
 
 module.exports = function(eleventyConfig) {
@@ -152,7 +147,6 @@ module.exports = function(eleventyConfig) {
                 height: md.jpeg[0].height              
             };
 
-            console.log(i);
             console.log(c);
 
             collection.push(c);
