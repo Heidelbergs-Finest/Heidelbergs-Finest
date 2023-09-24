@@ -1,8 +1,7 @@
 ---
-eleventyExcludeFromCollections: true
 title: Ballerquarantäne I
-description: xxx
-date: 2020-10-18
+description: Frühsommertouren um den Fernpass
+date: 2020-06-26
 banner: "L1040393.jpeg"
 tags:
   - MTB
@@ -10,20 +9,33 @@ tags:
   - "2020"
   - Andy
   - Mark
-strava:
-  - ["Mark - Samstag" ,"https://www.strava.com/activities/7900980052"]
-  - ["Mark - Sonntag" ,"https://www.strava.com/activities/7900979339"]
-links:
-  - ["Ein Link zu google", "https://google.com/"]
-  - ["Noch ein Link zu bing", "https://bing.com/"]
-
 
 layout: layouts/post.njk
 ---
 
-Dieser Stub zeigt welche Möglichkeiten mit der Markdown Formatierung bestehen. Der Post kann einfach kopiert und angepasst werden. Für eine Veröffentlichung muss die Zeile `eleventyExcludeFromCollections: true` aus der Frontmatter in Zeile zwei gelöscht werden.
+Es ist Juni 2023. Ich bin im Pfingsturlaub mit der Familie und ich habe Zeit und Muße einen weiteren Bericht für unser Tourentagebuch zu schreiben. Es geht um den ersten Trip während Corona, die Ballerquarantäne I im Juni 2020. Meine Erinnerungen sind blass, aber es war die Zeit, als die Pandemie die Welt und unsere Familien fest im Griff hatte. Homeschooling und Homeoffice waren kein exclusives Ding mehr für Weirdoos aus ultrachristlichen Kreisen in den USA, sondern für uns alle. Der Zweitklässler hatte auf einmal Videokonferenzen, genauso wie die Eltern. Sportunterricht fand mit Felix Neureuther im Wohnzimmer statt und Sachkundeunterricht gab es mit der Pflanzenbestimmungsapp im Heidelberger Stadtwald. Alle anderen Ausflugsorte waren ja tabu, sogar Spielplätze.
 
-# h1 Heading
+Umso befreiender war es für drei Tage auf Tour zu gehen mit Andy. Da die Landesgrenzen nach Österreich im Wochentakt geöffnet und geschlossen wurden, hatten wir geplant mit ein paar Tourenoptionen im Gepäck anzureisen rund um Zugspitzarena und Fernpass.
+
+# 26. Juni 2020 Geierköpfe
+
+Los geht's um Punkt 7 Uhr in Heidelberg. Das Bike steht auf dem Dach und der Piratenhyundai rollt Richtung Berge. Vermutlich habe ich Andy in München aufgelesen und wir standen kurz vor Garmisch etwas im Stau, aber mit drei Jahren Verspätung lässt sich das nicht mehr ganz genau rekonstruieren.
+
+Woran ich mich aber noch genau erinnern kann, ist der Start der Tour an den Geierköpfen. Wir waren ziemlich motiviert und heiß, dass es endlich losgeht. Pedaliert wurde aber lediglich die ersten fünf Minuten und dann kam das Rad auf den Rücken. Ich ging die ganze Zeit davon aus, dass es ein Witz sei, als Andy meinte, dass wir nur fünf Minuten und entsprechend wenig Höhenmeter treten konnten. War es aber nicht. Ich dachte der Berg, an dem nur getragen wird, sei der Thaneller - und der war ja für einen anderen Tag gelpant.
+
+Egal. Wie gesagt fehlte es ja nicht an Motivation und so stürmten wir mit Volldampf die erste Steilstufe hinauf. Das Tempo hielten wir aber nicht allzu lange und irgendwann gingen wir in einen Tritt über, den wir länger durchhalten konnten.
+
+Das Wetter war bombig und obwohl es bereits auf's Wochenende zuging, war es recht einsam am Berg. Wir teilten uns die Route nur mit einem weiteren Wanderer, den wir abhängig von Pausen immer mal wieder im Auf- und Abstieg zu Gesicht bekamen.
+
+Wir stiegen lange Zeit durch Latschen bis wir irgendwann einen freien Rücken erreichten. Hier galt es in leichter Kletterei mit dem Bike auf dem Rücken eine kurze Steile Passage zu meistern, bevor es zum Gifpel hin wieder abflachte. Der Puls beschleunigte etwas, aber im Großen und Ganzen war die Kraxelei kein Problem. Bergab sollte das sogar leichter sein.
+
+Den Gipfel hatten wir für uns alleine. Gutes Panorama, gute Zeit. Keine Coronamaßnahmen.
+
+Die Abfahrt war großer Spaß, bis auf einen Gegenanstieg. Ich hatte mein komplettes Pulver verschossen und schob die paar Höhenmeter, bevor sich der Trail runter zum Plansee stürzte. Wir waren gut beschäftigt und das Bad im See beendete die Tour später als gedacht.
+
+Mittlerweile hatte sich der Himmel verfinstert. Die Wettervorhersage meinte Wolkenbruch. Deshalb fiel der Plan zu campen ins Wasser. Davor gab's aber noch Kässptzen eins an der [Musteralpe Plansee](http://www.musteralpe-plansee.at).
+
+
 ## h2 Heading
 ### h3 Heading
 #### h4 Heading
