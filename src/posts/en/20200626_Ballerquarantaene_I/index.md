@@ -2,7 +2,7 @@
 title: Ballerquarantäne I
 description: Frühsommertouren um den Fernpass
 date: 2020-06-26
-banner: "L1040393.jpeg"
+banner: "Ballerquarantaene06262020174921.jpeg"
 tags:
   - MTB
   - Deutschland
@@ -33,7 +33,35 @@ Den Gipfel hatten wir für uns alleine. Gutes Panorama, gute Zeit. Keine Coronam
 
 Die Abfahrt war großer Spaß, bis auf einen Gegenanstieg. Ich hatte mein komplettes Pulver verschossen und schob die paar Höhenmeter, bevor sich der Trail runter zum Plansee stürzte. Wir waren gut beschäftigt und das Bad im See beendete die Tour später als gedacht.
 
-Mittlerweile hatte sich der Himmel verfinstert. Die Wettervorhersage meinte Wolkenbruch. Deshalb fiel der Plan zu campen ins Wasser. Davor gab's aber noch Kässptzen eins an der [Musteralpe Plansee](http://www.musteralpe-plansee.at).
+Mittlerweile hatte sich der Himmel verfinstert. Die Wettervorhersage meinte Wolkenbruch. Deshalb fiel der Plan zu campen ins Wasser. Davor gab's aber noch Kässpatzen eins an der [Musteralpe Plansee](http://www.musteralpe-plansee.at).
+
+Über [Booking](https://booking.com) fanden wir auch noch spät eine Unterkunft, vermutlich in Heiterwang, was in Anbetracht des Regens auch die bessere Wahl war.
+
+# 27. Juni Loreascharte
+
+Für den folgenden Tag hatte Andy eine Tour direkt neben der Fernpassstraße ausgekuckt. Ich war zuerst skeptisch, weil das ja schon eine Passstraße ist mit extrem viel Autoverkehr. Aber die Tour an sich sah gut und ich hatte auch noch realisiert, dass sie uns auf einem Stück über Trails führen wird, über die wir während unseres ersten Alpencross 2004 bereits gefahren waren. Damals sind wir von Nassereith über das Dirstentrittkreuz Richtung Süden gefahren. Heute haben wir genau den selben Abschnitt auf einer Schotterpiste auf dem Programm, aber nach ca. 500hm ging es Richtung Norden zur Loreascharte. Es war witzig denn insbesondere die knüppelharte Steile Kehre hatte ich noch gut in Erinnerung.
+
+Nachdem wir die Schotterpiste verlassen hatten, begann erneut eine Tragepassage. Stille und Wärme machte sich breit. Der Lärm der Fernpassstraße war überhaupt nicht mehr zu hören, es gab keinen Wind und die Sonne entwickelte ordentlich Kraft in diesem Seitental. Ich war immer noch recht müde von der Speedochsentour gestern, aber wir ließen es langsamer angehen.
+
+Auf etwa 2000m erreichten wir einen Sattel mit einer wunderschönen blumigen Wiese. Da wir super in der Zeit waren haben wir zum ersten Mal in unserer langjährigen Bikekarriere ein ausgedehntes Nickerchen gehalten. Kurz danach feierten wir diese Pause als richtungsweisende Weltidee. Jetzt, drei Jahre später, kann ich berichten, dass wir weiterhin eher wenig auf Pausen setzen beim ballern. Why?
+
+Nach der Pause gingen die letzten 300hm hinauf zur Scharte gut, aber die Motivation war dennoch nicht große genug auch noch auf den benachbarten Loreakopf zu steigen. Wir hatten aber auch schlichtweg Bock auf den Trail zurück. Dieser entpuppte sich als extrem guter Fit für uns. Ständig im Wechsel zwischen S1, S2 und S3 haben wir es ziemlich laufen lassen. Im Wesentlichen gab es eine kurze Verschnaufspause unterhalb der [Loreahütte](https://www.lorea-huette.com/) wo wir eine Schulklasse beneideten, die hier ein paar Tage verbrachte.
+
+Innerhalb des Waldes pendelte sich der Trail dann immer mehr bei S3 an als bei S1, das machte aber enorm Laune und band unsere Konzentration derart, dass wir die Fernpassstraße und den zugehörigen Verkehr erst dann wieder wahrnahmen, als wir unmittelbar davor standen.
+
+Auf dem Rückweg gab es dann noch ein Bad im Fernsteinsee und die Entscheidung am morgigen letzten Tag der Ballerquarantäne doch nicht den Thaneller zu versuchen. Nach den bisherigen beiden Tagen war ich schlichtweg nicht fit genug für weitere 1200hm Tragen. Aber da wir uns ja quasi auf Andys ereitertem Hometurf befanden, war schnell eine Alternative gefunden. Im [Alpin Resort Austria](https://alpin-resort-austria.at/) in Bichlbach war auch noch etwas frei, und zwar das [Appartment Thaneller](https://alpin-resort-austria.at/thaneller/).
+
+# 28. Juni Kohlbergspitze
+
+Wir brachen früh morgens auf am dritten Tag. Es war kühl, etwas feucht und einzelne Neblefetzen hingen noch in den steilen waldigen Hängen während wir uns auf einer mäßig steilen Schotterpiste emporkurbelten. Am Himmel über uns war keine Wolke zu sehen.
+
+Die letzten 300hm war aber auch an der Kohlbergspitze nichts mehr mit Fahren und wir schulterten unsere Bikes. Andy weit voraus, ich hinterher.
+
+Am Gipfel war ein bisschen was los, wir hielten einen Schnack mit Trailrunnern, Locals und genossen die Aussicht. Die Abfahrt war spaßig, ganz oben etwas aufgeweicht im tiefen, steilen Wiesenboden. Nach unten wurde es immer flowiger zu fahren bis wir auf halber Höhe vom Aufstiegsweg abzweigten und auf einem Steig direkt nach Bichlbach zurück fuhren.
+
+Am Bahnhof trennten sich die Wege von Andy und mir mal wieder. Ich musste mit dem Piratenhyundai zurück nach HD, Andy mit dem Zug zurück nach München.
+
+Es war die erste Alpentour mit meinem damals neuen Specialized Stumpjumper. Ich war wirklich ziemlich happy mit dem Bike - und Andy schloss auch die Tour mit einer Lobeshymne auf sein nicht ganz so neues Alutech Fanes.
 
 
 ## h2 Heading
