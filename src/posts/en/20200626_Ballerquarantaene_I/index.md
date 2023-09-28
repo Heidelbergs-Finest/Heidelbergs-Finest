@@ -80,3 +80,5 @@ Am Gipfel war ein bisschen was los, wir hielten einen Schnack mit Trailrunnern, 
 Am Bahnhof trennten sich die Wege von Andy und mir mal wieder. Ich musste mit dem Piratenhyundai zurück nach HD, Andy mit dem Zug zurück nach München.
 
 Es war die erste Alpentour mit meinem damals neuen 29er Specialized Stumpjumper. Ich war wirklich ziemlich happy mit dem Bike - und auch Andy schloss die Tour mit einer Instagram Lobeshymne auf sein nicht ganz so neues Alutech Fanes.
+
+Irgend eine Test Änderung für Andy.
