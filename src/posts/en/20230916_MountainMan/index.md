@@ -26,7 +26,7 @@ Ich schaue auf meine Garmin: Es ist 5:30 Uhr und ich höre die Filmmusik von „
 
 {% from "components/image-grid.njk" import imageGrid %}
 {{ imageGrid([
- ["2023_MountainMan000.jpg", "2023_MountainMan001.jpg"],
+ ["2023_MountainMan000.jpg", "2023_MountainMan001.jpg"]
 ]) }}
 <br>
 <br>
@@ -62,7 +62,7 @@ Diese Facette hatte ich in meiner Vorbereitung schlicht ignoriert und ich merkte
 
 {% from "components/image-grid.njk" import imageGrid %}
 {{ imageGrid([
- ["2023_MountainMan004.jpg", "2023_MountainMan005.jpg"],
+ ["2023_MountainMan004.jpg", "2023_MountainMan005.jpg"]
 ]) }}
 <br>
 <br>
@@ -73,7 +73,7 @@ Eingebettet in eine Vierergruppe war ich ziemlich im Flow, als ich an einer Gel�
 
 {% from "components/image-grid.njk" import imageGrid %}
 {{ imageGrid([
- ["2023_MountainMan007.jpg", "2023_MountainMan009.jpg"],
+ ["2023_MountainMan007.jpg", "2023_MountainMan009.jpg"]
 ]) }}
 <br>
 <br>
@@ -88,7 +88,7 @@ Am Gipfel des Gründeggs auf 2100 m überholte ich zum ersten Mal Hans, der mich
 {% from "components/image-grid.njk" import imageGrid %}
 {{ imageGrid([
  ["2023_MountainMan010.jpg", "2023_MountainMan011.jpg"],
- ["2023_MountainMan012.jpg", "2023_MountainMan013.jpg"],
+ ["2023_MountainMan012.jpg", "2023_MountainMan013.jpg"]
 ]) }}
 <br>
 <br>
@@ -105,7 +105,7 @@ Im folgenden gingen es wieder hoch auf den Bergrücken und da weiter isohypsig a
 
 {% from "components/image-grid.njk" import imageGrid %}
 {{ imageGrid([
- ["2023_MountainMan015.jpg", "2023_MountainMan016.jpg"],
+ ["2023_MountainMan015.jpg", "2023_MountainMan016.jpg"]
 ]) }}
 <br>
 <br>
@@ -122,7 +122,7 @@ Tatsächlich tat mir die kleine „Pause“ aber sehr gut und ich fand relativ b
 
 {% from "components/image-grid.njk" import imageGrid %}
 {{ imageGrid([
- ["2023_MountainMan017.jpg", "2023_MountainMan019.jpg"],
+ ["2023_MountainMan017.jpg", "2023_MountainMan019.jpg"]
 ]) }}
 <br>
 <br>
@@ -155,7 +155,7 @@ Ca. 40 Minuten später stehe ich bis zu den Knien in eiskaltem Wasser des Bachla
 
 {% from "components/image-grid.njk" import imageGrid %}
 {{ imageGrid([
- ["2023_MountainMan022.jpg", "2023_MountainMan023.jpg"],
+ ["2023_MountainMan022.jpg", "2023_MountainMan023.jpg"]
 ]) }}
 <br>
 <br>
@@ -163,14 +163,6 @@ Ca. 40 Minuten später stehe ich bis zu den Knien in eiskaltem Wasser des Bachla
 Rückblickend denke ich, es wären auch mehr als 55 Kilometer und 3000 Höhenmeter möglich gewesen. Ich hätte schneller sein und mehr laufen können. Ich hätte vermutlich nicht bei jedem Verpflegungspunkt anhalten müssen. Ich hätte gern mehr auf Trails trainiert und wäre gern mehr Longruns in den Bergen gelaufen. Ich wäre gern ausgeschlafen in das Rennen gestartet. Die Achillessehne und die Peronealsehne haben mein Training schon stark beeinflusst - ich bin weniger Tempoeinheiten und weniger Trails gelaufen, um die Belastung gering zu halten - wie wäre es wohl anders gewesen. Die Frage kommt immer wieder auf. Aber jedes Mal komme ich zum Schluss, dass ich eigentlich nicht glücklicher sein könnte. 
 <br>
 Ich hatte einen fantastischen Tag. Ich konnte das ganze Rennen genießen und hatte alles, was ich mir von einem langen Trail gewünscht habe. Ich konnte den Tag mit Freunden und meiner Familie teilen. Ich bin sehr glücklich, diesen Tag in meinem Depot zu haben.
-
-
-
-## Images
-
-
-
-
 
 ## Komoot Embedding
 
