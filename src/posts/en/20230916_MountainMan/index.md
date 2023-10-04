@@ -1,5 +1,4 @@
----
-eleventyExcludeFromCollections: true
+
 title: Mountain Man
 description: Ein Ultratrail in Großarl
 date: 2023-09-16
