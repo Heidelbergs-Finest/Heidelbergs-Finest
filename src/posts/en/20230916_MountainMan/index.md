@@ -16,7 +16,6 @@ links:
 layout: layouts/post.njk
 ---
 
-
 # Anreise
 
 Ich schaue auf meine Garmin: Es ist 5:30 Uhr und ich höre die Filmmusik von „Das Boot“. Es ist noch stockdunkel. Der Himmel ist sternenklar. Ich befinde mich in einer Menschenmenge auf einem kleinen Platz im österreichischen Bergdorf Großarl. Ich sauge die ungewohnte Atmosphäre auf. Ich hätte nie gedacht, dass ich mal bei einem Trailrunning-Wettkampf inmitten von Läufern stehen werde. Der Weg hierher war lang und profiliert wie ein Trailrun selbst. Seit mittlerweile 3 Jahren laufe ich relativ intensiv und die längeren Distanzen wurden immer reizvoller. Begonnen hat das mit der Geburt von Linus. Die Zeit wurde noch knapper und dadurch die Möglichkeit für Bikeausfahrten unwahrscheinlich. Das Laufen war da eine willkommene Ersatzdroge, die mir half viele Probleme wie die Unsicherheiten der Pandemie, die familiären Herausforderungen Zuhause oder Krankheiten im erweiterten Familienkreis zu verarbeiten. Das hatte zur Folge, dass ich selten so fit war. Auch wenn sich schon abgezeichnet hat, dass es mehr braucht als gute Beine und eine große Lunge, um längere Zeit ein Läufer zu sein. Die stetige Progression in Pace und Umfang zollten ihren Tribut und zu meinem Langzeitproblem einer chronischen Achillessehnenreizung kamen andere Dinge wie Jumpers Knee, Plantarfaszilitis und Überlastung der Peronealsehne. Trotz der körperlichen Widerstände wuchs der Wunsch, diese Ära zu krönen oder abzuschließen - wie auch immer man das nennen will. Einfach einen Marathon auf der Straße von meiner Haustür zum Starnberger See und dort dann die Familie treffen? Oder richtig mit Wettkampf gegen die Uhr und anderen beim München Marathon? Aber eigentlich hatte ich schon die meiste Freude beim Laufen auf Trails in den Bergen. Und so ergab es sich, dass Albrecht und ich uns an Weihnachten für den Mountain Man Berglauf in Großarl angemeldet haben. Albrecht entschied sich für die M-Distanz mit 17 Kilometern und ich mich für die große Runde mit 50 Kilometer. Somit noch 9 Monate zur Vorbereitung. Ich hatte mir vorgenommen, nicht die gleichen Fehler der letzten Jahre zu machen und vor allem die Trainingsintensität zu kontrollieren.
@@ -25,7 +24,7 @@ Ich schaue auf meine Garmin: Es ist 5:30 Uhr und ich höre die Filmmusik von „
 
 {% from "components/image-grid.njk" import imageGrid %}
 {{ imageGrid([
- ["2023_MountainMan000.jpeg"], "[2023_MountainMan001.jpeg"]
+ ["2023_MountainMan000.jpeg"], ["2023_MountainMan001.jpeg"]
 ]) }}
 <br>
 <br>
@@ -61,7 +60,7 @@ Diese Facette hatte ich in meiner Vorbereitung schlicht ignoriert und ich merkte
 
 {% from "components/image-grid.njk" import imageGrid %}
 {{ imageGrid([
- ["2023_MountainMan004.jpeg], "[2023_MountainMan005.jpeg"]
+ ["2023_MountainMan004.jpeg"], ["2023_MountainMan005.jpeg"]
 ]) }}
 <br>
 <br>
@@ -71,7 +70,7 @@ Eingebettet in eine Vierergruppe war ich ziemlich im Flow, als ich an einer Gel�
 
 {% from "components/image-grid.njk" import imageGrid %}
 {{ imageGrid([
- ["2023_MountainMan007.jpeg], "[2023_MountainMan009.jpeg"]
+ ["2023_MountainMan007.jpeg"], ["2023_MountainMan009.jpeg"]
 ]) }}
 <br>
 <br>
@@ -85,8 +84,8 @@ Am Gipfel des Gründeggs auf 2100 m überholte ich zum ersten Mal Hans, der mich
 
 {% from "components/image-grid.njk" import imageGrid %}
 {{ imageGrid([
- ["2023_MountainMan010.jpeg], "[2023_MountainMan011.jpeg"],
- ["2023_MountainMan012.jpeg], "[2023_MountainMan013.jpeg"]
+ ["2023_MountainMan010.jpeg"], ["2023_MountainMan011.jpeg"],
+ ["2023_MountainMan012.jpeg"], ["2023_MountainMan013.jpeg"]
 ]) }}
 <br>
 <br>
@@ -103,7 +102,7 @@ Im folgenden gingen es wieder hoch auf den Bergrücken und da weiter isohypsig a
 
 {% from "components/image-grid.njk" import imageGrid %}
 {{ imageGrid([
- ["2023_MountainMan015.jpeg], "[2023_MountainMan016.jpeg"]
+ ["2023_MountainMan015.jpeg"], ["2023_MountainMan016.jpeg"]
 ]) }}
 <br>
 <br>
@@ -119,7 +118,7 @@ Tatsächlich tat mir die kleine „Pause“ aber sehr gut und ich fand relativ b
 
 {% from "components/image-grid.njk" import imageGrid %}
 {{ imageGrid([
- ["2023_MountainMan017.jpeg], "[2023_MountainMan019.jpeg"]
+ ["2023_MountainMan017.jpeg"], ["2023_MountainMan019.jpeg"]
 ]) }}
 <br>
 <br>
@@ -153,7 +152,7 @@ Ca. 40 Minuten später stehe ich bis zu den Knien in eiskaltem Wasser des Bachla
 
 {% from "components/image-grid.njk" import imageGrid %}
 {{ imageGrid([
- ["2023_MountainMan022.jpeg], "[2023_MountainMan023.jpeg"]
+ ["2023_MountainMan022.jpeg"], ["2023_MountainMan023.jpeg"]
 ]) }}
 <br>
 <br>
