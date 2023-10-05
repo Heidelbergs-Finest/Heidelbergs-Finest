@@ -25,7 +25,7 @@ Ich schaue auf meine Garmin: Es ist 5:30 Uhr und ich höre die Filmmusik von „
 
 {% from "components/image-grid.njk" import imageGrid %}
 {{ imageGrid([
- ["2023_MountainMan000.jpeg", "2023_MountainMan001.jpeg"]
+ ["2023_MountainMan000.jpeg"], "[2023_MountainMan001.jpeg"]
 ]) }}
 <br>
 <br>
@@ -37,6 +37,7 @@ Und jetzt stand ich tatsächlich an der Startlinie 9 Monate und 1100 Trainingski
 <br>
 Ähnlich wellig wie die Vorbereitung lief auch die Anreise hierher. Ein Blechschaden in München, ein Stau auf der Autobahn, ein übertrieben langes Abendessen und eine Fiebernacht mit Linus, ein kaputter Flask und undichte Gels in der Früh sind nicht die Vorbereitung, die ich mir vorgestellt hatte. Daher kann ich auch nur wie ein Zombie antworten, das ich schlecht geschlafen habe auf die Frage eines Mitläufers in meinem Hotel, ob ich fit sei. Naja, die Panik in seinen Augen war deutlich größer. Denn eigentlich fühlte ich mich gut vorbereitet und nach den zwei Tassen Kaffee und den Overnight Oats auch halbwegs wach.
 
+<br>
 <br>
 <br>
 
@@ -51,7 +52,7 @@ Die Zeit vor dem Start nutzte ich noch für ein paar Mobilisierungsübungen und 
 Ich hatte mir fest vorgenommen viel und regelmäßig zu essen und mir sogar einen 45 Minuten Fresstimer gestellt und so gab es an der Bichlalm das erste Stück Kuchen des Tages und einen Refill für die Flaschen. Das folgende Flachstück auf dem Bergrücken machte Lust auf mehr - alles fühlte sich gut an. Leider brachte eine kurzfristige Streckenänderung zu den 5 Extrakilometern noch 400 Höhenmeter zusätzlich und vor allem einen 400 Tiefenmeter Downhill auf einer Forststrasse. 
 <br>
 <br>
-![Extra Tiefenmeter](media/2023_MountainMan008.jepg)
+![Extra Tiefenmeter](media/2023_MountainMan008.jpeg)
 <br>
 <br>
 Diese Facette hatte ich in meiner Vorbereitung schlicht ignoriert und ich merkte gleich, dass hier Vorsicht geboten war, wenn ich die Quads nicht gleich durchballern wollte. So nahm ich einige Überholungen in Kauf, freute mich dann aber doch, die meisten Leute im folgenden Anstieg dann wieder zusehen. Hier liefs wieder spitze und VP2 und 3 kamen recht zügig. Mittlerweile war es 9:00 und somit die ersten drei Stunden und 20 Kilometer im Sack. Die folgende  isohypsige Passage auf der Höhe mitten durch Blaubeersteäucher und eingebettet in ein herrliches Panorama mit Hohen Tauern, Hochkönig und Tennengebirge war der reinste Genuss und das Runners High hätte nicht höher sein können. Genau dafür bin ich gekommen und ich genoss jeden Atemzug. Abgesehen von den Käsegnocchis vom Abendessen - die lagen mir doch recht schwer im Magen und ich rechnete eigentlich fest mit einem ungeplanten Zwischenstopp im Unterholz.
@@ -60,7 +61,7 @@ Diese Facette hatte ich in meiner Vorbereitung schlicht ignoriert und ich merkte
 
 {% from "components/image-grid.njk" import imageGrid %}
 {{ imageGrid([
- ["2023_MountainMan004.jpeg", "2023_MountainMan005.jpeg"]
+ ["2023_MountainMan004.jpeg], "[2023_MountainMan005.jpeg"]
 ]) }}
 <br>
 <br>
@@ -70,8 +71,9 @@ Eingebettet in eine Vierergruppe war ich ziemlich im Flow, als ich an einer Gel�
 
 {% from "components/image-grid.njk" import imageGrid %}
 {{ imageGrid([
- ["2023_MountainMan007.jpeg", "2023_MountainMan009.jpeg"]
+ ["2023_MountainMan007.jpeg], "[2023_MountainMan009.jpeg"]
 ]) }}
+<br>
 <br>
 <br>
 
@@ -83,12 +85,13 @@ Am Gipfel des Gründeggs auf 2100 m überholte ich zum ersten Mal Hans, der mich
 
 {% from "components/image-grid.njk" import imageGrid %}
 {{ imageGrid([
- ["2023_MountainMan010.jpeg", "2023_MountainMan011.jpeg"],
- ["2023_MountainMan012.jpeg", "2023_MountainMan013.jpeg"]
+ ["2023_MountainMan010.jpeg], "[2023_MountainMan011.jpeg"],
+ ["2023_MountainMan012.jpeg], "[2023_MountainMan013.jpeg"]
 ]) }}
 <br>
 <br>
 Generell fühlte ich mich sehr gut und hatte den Eindruck, die Belastung gut unter Kontrolle zu haben. Ich aß regelmäßig, wenn auch jedes Gel weniger gut rein ging. Aber die Strategie, vor allem auf meine eigene Auswahl an Verpflegung zu setzen, ging gut auf - an den Labestationen nahm ich vor allem Flüssigkeit mit und pickte nur hier und da ein Stückchen Kuchen oder etwas Obst.
+<br>
 <br>
 <br>
 
@@ -100,7 +103,7 @@ Im folgenden gingen es wieder hoch auf den Bergrücken und da weiter isohypsig a
 
 {% from "components/image-grid.njk" import imageGrid %}
 {{ imageGrid([
- ["2023_MountainMan015.jpeg", "2023_MountainMan016.jpeg"]
+ ["2023_MountainMan015.jpeg], "[2023_MountainMan016.jpeg"]
 ]) }}
 <br>
 <br>
@@ -116,8 +119,9 @@ Tatsächlich tat mir die kleine „Pause“ aber sehr gut und ich fand relativ b
 
 {% from "components/image-grid.njk" import imageGrid %}
 {{ imageGrid([
- ["2023_MountainMan017.jpeg", "2023_MountainMan019.jpeg"]
+ ["2023_MountainMan017.jpeg], "[2023_MountainMan019.jpeg"]
 ]) }}
+<br>
 <br>
 <br>
 
@@ -139,6 +143,7 @@ Und tatsächlich konnte ich nicht mehr folgen, als Hans und Christoph mich einho
 Auch Hans war gleich da und blubberte mich voll und freute sich über den Sieg in seiner Altersklasse. Albrecht wollte gleich Bier trinken. Die Kinder quakten mich fröhlich voll. Aber das war mir in dem Moment alles etwas zu viel und ich brauchte etwas Zeit zum wieder Ankommen.
 <br>
 <br>
+<br>
 
 # Fazit
 
@@ -148,7 +153,7 @@ Ca. 40 Minuten später stehe ich bis zu den Knien in eiskaltem Wasser des Bachla
 
 {% from "components/image-grid.njk" import imageGrid %}
 {{ imageGrid([
- ["2023_MountainMan022.jpeg", "2023_MountainMan023.jpeg"]
+ ["2023_MountainMan022.jpeg], "[2023_MountainMan023.jpeg"]
 ]) }}
 <br>
 <br>
@@ -156,7 +161,8 @@ Ca. 40 Minuten später stehe ich bis zu den Knien in eiskaltem Wasser des Bachla
 Rückblickend denke ich, es wären auch mehr als 55 Kilometer und 3000 Höhenmeter möglich gewesen. Ich hätte schneller sein und mehr laufen können. Ich hätte vermutlich nicht bei jedem Verpflegungspunkt anhalten müssen. Ich hätte gern mehr auf Trails trainiert und wäre gern mehr Longruns in den Bergen gelaufen. Ich wäre gern ausgeschlafen in das Rennen gestartet. Die Achillessehne und die Peronealsehne haben mein Training schon stark beeinflusst - ich bin weniger Tempoeinheiten und weniger Trails gelaufen, um die Belastung gering zu halten - wie wäre es wohl anders gewesen. Die Frage kommt immer wieder auf. Aber jedes Mal komme ich zum Schluss, dass ich eigentlich nicht glücklicher sein könnte. 
 <br>
 Ich hatte einen fantastischen Tag. Ich konnte das ganze Rennen genießen und hatte alles, was ich mir von einem langen Trail gewünscht habe. Ich konnte den Tag mit Freunden und meiner Familie teilen. Ich bin sehr glücklich, diesen Tag in meinem Depot zu haben.
-
+<br>
+<br>
 ## Komoot Embedding
 
 <iframe src="https://www.komoot.de/tour/1303846324/embed?profile=1&share_token=aV3VKb3UNLMoExMaHiq3orhkO7Zx1eQJZhN8dbDQ8XhPKRnQdK" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
