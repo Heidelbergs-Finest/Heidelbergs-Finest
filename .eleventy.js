@@ -5,9 +5,10 @@ const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const pluginNavigation = require("@11ty/eleventy-navigation");
 const { markdownLibrary } = require("./.markdown.js");
 const CleanCSS = require('clean-css');
-const Image = require("@11ty/eleventy-img");
+const Image11ty = require("@11ty/eleventy-img");
 const glob = require("glob-promise");
 const { path } = require("animejs");
+const sizeOf = require('image-size')
 
 const FULL = 1600;
 const THUMB = 300;
@@ -37,15 +38,11 @@ function getFilenameWithoutExtensin(filenameIncludingPath) {
 async function generateImages() {
 
 	let options = {
-		widths: [FULL, THUMB],
+		widths: [THUMB, "auto", FULL],
 		formats: ['jpeg'],
 		filenameFormat:function(id, src, width, format, options) {
-			let origFilename = getFilename(src);
-			let parts = origFilename.split('.');
-			parts.pop();
-			origFilename = parts.join('.');
-
             let filenameWithoutExtension = getFilenameWithoutExtensin(src)
+
             if (width == THUMB)
             {
                 return `thumbnail-${filenameWithoutExtension}.${format}`;
@@ -64,9 +61,8 @@ async function generateImages() {
 
         options.outputDir = '_site/' + getRelativeImageLocation(f);
 
-		let md = await Image(f, options);
+		let md = await Image11ty(f, options);
 	};
-
 };
 
 module.exports = function(eleventyConfig) {
@@ -135,25 +131,22 @@ module.exports = function(eleventyConfig) {
 		});
 
         let collection = []
-
+            
         for (let i = 0; i < images.length; i++) {
             let options = {
                 statsOnly: true,
                 formats: ['jpeg']
             };
-            
-            md = await Image(images[i], options);
-            
+
+            var dimensions = sizeOf(images[i]);
+
             c = {
                 fullPath: images[i],
                 postfolder: getPostFolder(images[i]),
 				filename: getFilename(images[i]),
-                width: md.jpeg[0].width,
-                height: md.jpeg[0].height              
+                width: dimensions.width,
+                height: dimensions.height              
             };
-
-            console.log(i);
-            console.log(c);
 
             collection.push(c);
         }
