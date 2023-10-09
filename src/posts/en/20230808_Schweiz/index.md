@@ -50,6 +50,7 @@ Der Trail erfordert Aufmerksamkeit, aber ohne uns zu sehr zu kitzeln und so freu
 <br>
 <br>
 
+{% from "components/image-grid.njk" import imageGrid %}
 {{ imageGrid([
  ["Schweiz_20230805205818.jpeg"], ["Schweiz_20230806083336.jpeg"]
 ]) }}
@@ -69,6 +70,7 @@ In Claudines Bar bekommen wir ein erstklassiges Frühstück. So macht das Freude
 
  <br><br>
 
+{% from "components/image-grid.njk" import imageGrid %}
 {{ imageGrid([
  ["Schweiz_20230806092252.jpeg"], ["Schweiz_20230806111050.jpeg"],
  ["Schweiz_20230806105609.jpeg"], ["Schweiz_20230806125016.jpeg"]
@@ -96,6 +98,7 @@ Hier haben wir die Möglichkeit unsere heutige Etappe abzukürzen. Am Arsch! Ist
 
  <br><br>
 
+{% from "components/image-grid.njk" import imageGrid %}
 {{ imageGrid([
  ["Schweiz_20230806140333.jpeg"], ["Schweiz_20230806140354.jpeg"]
 ]) }}
@@ -106,6 +109,7 @@ Es ist bolleheiss! Wir haben uns für einen Schlenker entschieden, der uns nach 
 
  <br><br>
 
+{% from "components/image-grid.njk" import imageGrid %}
 {{ imageGrid([
  ["Schweiz_20230806171017.jpeg"], ["Schweiz_20230806173420.jpeg"],
  ["Schweiz_20230806181408.jpeg"], ["Schweiz_20230806190547.jpeg"]
@@ -126,6 +130,7 @@ Es gibt italienisches Frühstück. Ich pfeife mir direkt 3 Stück Kuchen rein. G
 
  <br><br>
 
+{% from "components/image-grid.njk" import imageGrid %}
 {{ imageGrid([
  ["Schweiz_20230807073211.jpeg"], ["Schweiz_20230807113759.jpeg"]
 ]) }}
@@ -137,6 +142,8 @@ Bei anhaltendem Schneegestöber steigen wir dann auf zum Lach dal Mónt. Anfäng
  <br><br>
 
 ![Piz La Streta](media/Schweiz_20230807142729.jpeg)
+
+{% from "components/image-grid.njk" import imageGrid %}
 {{ imageGrid([
  ["Schweiz_20230807142118.jpeg"], ["Schweiz_20230807131448.jpeg"]
 ]) }}
@@ -147,6 +154,7 @@ Aber wenn wir ehrlich sind, haben wir mittlerweile etwas Respekt vor dem Schweiz
 
  <br><br>
 
+{% from "components/image-grid.njk" import imageGrid %}
 {{ imageGrid([
  ["Schweiz_20230807151017.jpeg"], ["Schweiz_20230807153546.jpeg"],
  ["Schweiz_20230807153806.jpeg"], ["Schweiz_20230807170740.jpeg"]
@@ -166,6 +174,7 @@ Außer uns sind nur noch drei weitere Gäste auf der Hütte. Der Schweizer mit s
 
  <br><br>
 
+{% from "components/image-grid.njk" import imageGrid %}
 {{ imageGrid([
  ["Schweiz_20230807174253.jpeg"], ["Schweiz_20230808065658.jpeg"],
  ["Schweiz_20230807214454.jpeg"], ["Schweiz_20230807214815.jpeg"]
@@ -187,6 +196,7 @@ Puh! Die unruhige Nacht lädt die Body Battery nur mäßig! Wir besuchen erstmal
 
  <br><br>
 
+{% from "components/image-grid.njk" import imageGrid %}
 {{ imageGrid([
  ["Schweiz_20230808073647.jpeg"], ["Schweiz_20230808104925.jpeg"],
  ["Schweiz_20230808111323.jpeg"], ["Schweiz_20230808100544.jpeg"]
@@ -214,6 +224,7 @@ Erst weglos und verhagelt - später flowig und steil. Jedenfalls zu viel für me
 Komplett entspannt sind wir aber auch nicht mehr, vor allen Dingen wegen der fortgeschrittenen Stunde. Deshalb machen wir auch nur kurz Pause in der kleinen Schutzhütte auf dem Pass. Die Abfahrt zum Dürrboden kennen wir von unserem ersten Trip nach Davos [LINK] und wir sind happy, dass wir hier ausnahmsweise locker auf S0 bis S1 Trails abrollen können. Mit den gesparten Körnern lässt sich auch die letzte Tragepassage hoch zu unserem Tagesziel gut meistern.
  <br><br>
 
+{% from "components/image-grid.njk" import imageGrid %}
 {{ imageGrid([
  ["Schweiz_20230808165438.jpeg"], ["Schweiz_20230808193010.jpeg"]
 ]) }}
@@ -232,7 +243,8 @@ Die Grialetschhütte ist komplett ausgebucht und die Gäste sind schon beim Nach
 Die Prognose für den heutigen Tag ist ziemlich durchwachsen und uns wird klar, dass wir ja heute auch noch die Heimfahrt zu bewältigen haben. Unser eigentlicher Plan sah vor, heute nochmal richtig einen rauszuhauen. Langsam machen sich Zweifel breit am Frühstückstisch und die Planungsmaschine springt an. Wir entscheiden uns, erstmal oberhalb des Tals zu queren und dann zum Flüelapass abzufahren.Die Wolken hängen tief und es dauert nicht lange, bis wir durch den Regen fahren. Der Trail ist trotzdem sehr spaßig und für uns gut fahrbar, wenn auch sehr anspruchsvoll. Nach 2 Stunden erreichen wir im strömenden Regen die Passhöhe auf 2380 m. Hier wird erstmal was eingeworfen und die Kleider gewechselt.
 
  <br><br>
-
+ 
+{% from "components/image-grid.njk" import imageGrid %}
 {{ imageGrid([
  ["Schweiz_20230809094745.jpeg"], ["Schweiz_20230809113404.jpeg"],
  ["Schweiz_20230809105405.jpeg"], ["Schweiz_20230809121922.jpeg"]
