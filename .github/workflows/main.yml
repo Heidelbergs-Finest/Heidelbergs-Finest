@@ -1,17 +1,20 @@
-name: Build and Deploy
+name: Build Website
 
 on:
   push:
     branches:
-      - main
+    - main
 
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-latest
-
-    - name: Upload to S3
-      run: |
-        aws s3 sync * s3://images-4-hdf-website-raw/ --include "**/Kleinwalsertal*.jpg" 
+    steps:
+    - uses: actions/checkout@main
+    - uses: jakejarvis/s3-sync-action@master
+      with:
+        args: --acl public-read --include "**/Kleinwalsertal*.jpg"
       env:
+        AWS_S3_BUCKET: ${{ secrets.AWS_S3_RAW_IMAGE_BUCKET }}
         AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
         AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+        AWS_REGION: 'eu-central-1'   # optional: defaults to us-east-1
