@@ -13,7 +13,7 @@ jobs:
     - uses: actions/checkout@main
     - uses: jakejarvis/s3-sync-action@master
       with:
-        args: --acl public-read --include "**/Kleinwalsertal*.jpg"
+        args: --acl public-read --include "*.jpg"
       env:
         AWS_S3_BUCKET: ${{ secrets.AWS_S3_RAW_IMAGE_BUCKET }}
         AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
